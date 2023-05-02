@@ -1,4 +1,4 @@
-# photography-website
+# Photography Website 
 
 A basic photography website allowing a user to:
 - view current exhibitions 
